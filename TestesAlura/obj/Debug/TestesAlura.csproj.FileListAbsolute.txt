@@ -1,0 +1,18 @@
+F:\Ygu\Estudo\Testes\TestesAlura\TestesAlura\bin\Debug\TestesAlura.exe.config
+F:\Ygu\Estudo\Testes\TestesAlura\TestesAlura\bin\Debug\TestesAlura.exe
+F:\Ygu\Estudo\Testes\TestesAlura\TestesAlura\bin\Debug\TestesAlura.pdb
+F:\Ygu\Estudo\Testes\TestesAlura\TestesAlura\obj\Debug\TestesAlura.csprojResolveAssemblyReference.cache
+F:\Ygu\Estudo\Testes\TestesAlura\TestesAlura\obj\Debug\TestesAlura.Form1.resources
+F:\Ygu\Estudo\Testes\TestesAlura\TestesAlura\obj\Debug\TestesAlura.Properties.Resources.resources
+F:\Ygu\Estudo\Testes\TestesAlura\TestesAlura\obj\Debug\TestesAlura.csproj.GenerateResource.Cache
+F:\Ygu\Estudo\Testes\TestesAlura\TestesAlura\obj\Debug\TestesAlura.exe
+F:\Ygu\Estudo\Testes\TestesAlura\TestesAlura\obj\Debug\TestesAlura.pdb
+F:\Ygu\Estudo\Testes\1 - Array com objetos\TestesAlura\bin\Debug\TestesAlura.exe.config
+F:\Ygu\Estudo\Testes\1 - Array com objetos\TestesAlura\obj\Debug\TestesAlura.exe
+F:\Ygu\Estudo\Testes\1 - Array com objetos\TestesAlura\obj\Debug\TestesAlura.pdb
+F:\Ygu\Estudo\Testes\1 - Array com objetos\TestesAlura\bin\Debug\TestesAlura.exe
+F:\Ygu\Estudo\Testes\1 - Array com objetos\TestesAlura\bin\Debug\TestesAlura.pdb
+F:\Ygu\Estudo\Testes\1 - Array com objetos\TestesAlura\obj\Debug\TestesAlura.csprojResolveAssemblyReference.cache
+F:\Ygu\Estudo\Testes\1 - Array com objetos\TestesAlura\obj\Debug\TestesAlura.Form1.resources
+F:\Ygu\Estudo\Testes\1 - Array com objetos\TestesAlura\obj\Debug\TestesAlura.Properties.Resources.resources
+F:\Ygu\Estudo\Testes\1 - Array com objetos\TestesAlura\obj\Debug\TestesAlura.csproj.GenerateResource.Cache
